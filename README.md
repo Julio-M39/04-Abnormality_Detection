@@ -17,3 +17,9 @@ Fonte de Dados:
 Paper de Pesquisa:
 
 <a href="https://arxiv.org/abs/1712.06957">MURA: Large Dataset for Abnormality Detection in Musculoskeletal Radiographs</a>
+
+Na figura abaixo temos alguns exemplos das imagens presentes nesse dataset.
+
+<div>
+<img src="https://user-images.githubusercontent.com/54995990/175791728-19c418c4-52f6-4946-8b6e-f784cad693a7.png" width="1000px" />
+</div>
