@@ -1,1 +1,1 @@
-# 04-Abnormality_Detection
+# Abnormality_Detection
